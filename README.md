@@ -2,8 +2,7 @@
 
 My name is Jahaziel Espinoza Guerra and I am a self-taught Software Developer with about 5 years of experience.
 
-- I’m currently working on expanding my knowledge of Computer Science.
-- I’m currently learning Software Architecture, Design patterns, Testing, and TDD.
+- Currently learning Software Architecture, Design patterns, Testing, and TDD.
 
 <br>
 <h2 align="center">Frequently Used Technologies</h2>
