@@ -1,6 +1,6 @@
-<h2 align="center">Introduction</h2>
+<h2 align="center">Jahaziel Espinoza Guerra</h2>
 
-My name is Jahaziel Espinoza Guerra and I am a self-taught Software Developer with about 5 years of experience.
+Self-taught Software Developer with about 5 years of experience.
 
 - Currently learning Software Architecture, Design patterns, Testing, and TDD.
 
